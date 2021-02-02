@@ -1,0 +1,18 @@
+.fa-bars {
+  color: #fff;
+}
+.fa-firstdraft {
+  margin-left: 0.5rem;
+  font-size: 1.6rem;
+}
+@media screen and (max-width: 960px) {
+  .fa-times .fa-bars {
+    color: #fff;
+    font-size: 2rem;
+    cursor: pointer;
+  }
+
+  button {
+    display: none;
+  }
+}
